@@ -1,5 +1,3 @@
-#instrução (algortimos)
-#variaveis
 x = 7
 print( "O valor de x é : ",x)
 y =13
